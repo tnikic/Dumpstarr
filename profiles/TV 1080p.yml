@@ -18,19 +18,31 @@ custom_formats_radarr: []
 custom_formats_sonarr:
 - name: WEB Tier 01
   score: 1700
+- name: German Web Tier 01 - Sonarr
+  score: 1700
 - name: WEB Tier 02
   score: 1650
+- name: German Web Tier 02 - Sonarr
+  score: 1650
 - name: WEB Tier 03
+  score: 1600
+- name: German Web Tier 03 - Sonarr
   score: 1600
 - name: WEB Tier 04
   score: 1550
 - name: 1080p Bluray Tier 01
   score: 1500
+- name: German Bluray Tier 01 - Sonarr
+  score: 1500
 - name: WEB Tier 05
   score: 1500
 - name: 1080p Bluray Tier 02
   score: 1450
+- name: German Bluray Tier 02 - Sonarr
+  score: 1450
 - name: 1080p Bluray Tier 03
+  score: 1400
+- name: German Bluray Tier 03 - Sonarr
   score: 1400
 - name: 1080p Bluray Tier 04
   score: 1350
@@ -51,6 +63,10 @@ custom_formats_sonarr:
 - name: 720p Bluray Tier 06
   score: 1050
 - name: 576p Bluray Tier 01
+  score: 1000
+- name: German DL - Sonarr
+  score: 1000
+- name: German DL (undefined) - Sonarr
   score: 1000
 - name: 576p Bluray Tier 02
   score: 950
@@ -169,6 +185,12 @@ custom_formats_sonarr:
 - name: TV Extras
   score: -10000
 - name: Whose Line (Not US Version)
+  score: -10000
+- name: German LQ (release title) - Sonarr
+  score: -10000
+- name: German LQ - Sonarr
+  score: -10000
+- name: German Microsized - Sonarr
   score: -10000
 qualities:
 - id: -2

@@ -1,0 +1,6 @@
+name: Radarr - paranoid06
+pattern: ^(paranoid06)$
+description: ''
+tags:
+- Radarr
+tests: []

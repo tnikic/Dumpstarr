@@ -1,0 +1,6 @@
+name: Radarr - UNDERTAKERS
+pattern: ^(UNDERTAKERS)$
+description: ''
+tags:
+- Radarr
+tests: []

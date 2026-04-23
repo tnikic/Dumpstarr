@@ -1,0 +1,6 @@
+name: Radarr - MULTiPLEX
+pattern: (MULTiPLEX)$
+description: ''
+tags:
+- Radarr
+tests: []

@@ -1,0 +1,7 @@
+name: EMVY
+pattern: ^(EMVY)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,7 @@
+name: Tylor.D
+pattern: ^(Tylor\.D)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

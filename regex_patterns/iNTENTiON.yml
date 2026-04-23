@@ -1,0 +1,7 @@
+name: iNTENTiON
+pattern: ^(iNTENTiON)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

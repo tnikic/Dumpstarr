@@ -1,0 +1,7 @@
+name: ORCA88
+pattern: ^(ORCA88)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

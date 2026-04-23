@@ -1,0 +1,7 @@
+name: 2dead
+pattern: ^(2dead)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

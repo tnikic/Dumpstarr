@@ -1,0 +1,7 @@
+name: ZeroTwo
+pattern: ^(ZeroTwo)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,6 @@
+name: Radarr - Oergel
+pattern: (Oergel)$
+description: ''
+tags:
+- Radarr
+tests: []

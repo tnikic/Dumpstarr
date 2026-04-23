@@ -1,0 +1,7 @@
+name: NIMA4K
+pattern: ^(NIMA4K)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

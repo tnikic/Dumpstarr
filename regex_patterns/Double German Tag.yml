@@ -1,0 +1,7 @@
+name: Double German Tag
+pattern: '[._-]German[._-].+?[._-]?German$'
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

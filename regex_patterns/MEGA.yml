@@ -1,0 +1,7 @@
+name: MEGA
+pattern: ^(MEGA)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

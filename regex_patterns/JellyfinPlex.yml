@@ -1,0 +1,7 @@
+name: JellyfinPlex
+pattern: ^(JellyfinPlex)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,7 @@
+name: PL
+pattern: ^(PL)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

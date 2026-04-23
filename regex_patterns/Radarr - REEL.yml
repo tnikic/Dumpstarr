@@ -1,0 +1,6 @@
+name: Radarr - REEL
+pattern: ^(REEL)$
+description: ''
+tags:
+- Radarr
+tests: []

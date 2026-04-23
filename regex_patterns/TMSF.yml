@@ -1,0 +1,7 @@
+name: TMSF
+pattern: ^(TMSF)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

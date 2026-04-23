@@ -1,0 +1,6 @@
+name: Sonarr - MULTiPLEX
+pattern: ^(MULTiPLEX)$
+description: ''
+tags:
+- Sonarr
+tests: []

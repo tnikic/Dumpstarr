@@ -1,0 +1,6 @@
+name: Sonarr - CDD
+pattern: ^(CDD)$
+description: ''
+tags:
+- Sonarr
+tests: []

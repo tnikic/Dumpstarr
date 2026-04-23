@@ -1,0 +1,7 @@
+name: Cancer58
+pattern: ^(Cancer58)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

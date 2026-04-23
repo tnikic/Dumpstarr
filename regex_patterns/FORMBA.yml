@@ -1,0 +1,7 @@
+name: FORMBA
+pattern: ^(FORMBA)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

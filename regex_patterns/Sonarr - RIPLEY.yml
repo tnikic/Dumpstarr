@@ -1,0 +1,6 @@
+name: Sonarr - RIPLEY
+pattern: ^(RIPLEY)$
+description: ''
+tags:
+- Sonarr
+tests: []

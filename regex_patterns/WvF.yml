@@ -1,0 +1,7 @@
+name: WvF
+pattern: ^(WvF)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

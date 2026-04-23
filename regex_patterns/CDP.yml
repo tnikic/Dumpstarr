@@ -1,0 +1,7 @@
+name: CDP
+pattern: ^(CDP)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

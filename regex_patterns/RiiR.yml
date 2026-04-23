@@ -1,0 +1,7 @@
+name: RiiR
+pattern: ^(RiiR)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

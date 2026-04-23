@@ -1,0 +1,7 @@
+name: PaZ
+pattern: ^(PaZ)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

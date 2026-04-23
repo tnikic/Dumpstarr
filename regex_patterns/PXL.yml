@@ -1,0 +1,7 @@
+name: PXL
+pattern: ^(PXL)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

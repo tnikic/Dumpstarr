@@ -1,0 +1,7 @@
+name: OJ
+pattern: ^(OJ)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

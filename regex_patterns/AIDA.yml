@@ -1,0 +1,7 @@
+name: AIDA
+pattern: ^(AIDA)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

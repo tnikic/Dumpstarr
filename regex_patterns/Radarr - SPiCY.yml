@@ -1,0 +1,6 @@
+name: Radarr - SPiCY
+pattern: ^(SPiCY)$
+description: ''
+tags:
+- Radarr
+tests: []

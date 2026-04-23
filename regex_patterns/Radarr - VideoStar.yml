@@ -1,0 +1,6 @@
+name: Radarr - VideoStar
+pattern: ^(VideoStar)$
+description: ''
+tags:
+- Radarr
+tests: []

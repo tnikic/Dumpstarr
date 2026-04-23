@@ -1,0 +1,7 @@
+name: TVARCHiV
+pattern: ^(TVARCHiV)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []
