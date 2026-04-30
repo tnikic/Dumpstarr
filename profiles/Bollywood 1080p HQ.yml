@@ -5,7 +5,7 @@ tags:
 - Radarr
 - 1080p
 upgradesAllowed: true
-minCustomFormatScore: 750
+minCustomFormatScore: 0
 upgradeUntilScore: 10000
 minScoreIncrement: 1
 custom_formats: []
@@ -50,6 +50,8 @@ custom_formats_radarr:
   score: 2000
 - name: German DL (undefined) - Radarr
   score: 2000
+- name: German - Radarr
+  score: 1000
 - name: 1080p Bluray Tier 04
   score: 950
 - name: 720p Bluray Tier 04
@@ -89,7 +91,7 @@ custom_formats_radarr:
 - name: Repack1
   score: 5
 - name: Missing Audio Channels
-  score: -50
+  score: 0
 - name: 3D
   score: -10000
 - name: ASL
