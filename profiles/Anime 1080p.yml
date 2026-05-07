@@ -104,36 +104,36 @@ custom_formats:
 custom_formats_radarr: []
 custom_formats_sonarr: []
 qualities:
-- id: 10
-  name: Bluray-1080p
 - id: -2
   name: WEB 1080p
   description: ''
   qualities:
+  - id: 10
+    name: Bluray-1080p
   - id: 9
     name: WEBDL-1080p
   - id: 11
     name: WEBRip-1080p
   - id: 12
     name: HDTV-1080p
-- id: 13
-  name: Bluray-720p
 - id: -3
   name: WEB 720p
   description: ''
   qualities:
+  - id: 13
+    name: Bluray-720p
   - id: 14
     name: WEBDL-720p
   - id: 15
     name: WEBRip-720p
   - id: 16
     name: HDTV-720p
-- id: 18
-  name: Bluray-480p
 - id: -4
   name: WEB 480p
   description: ''
   qualities:
+  - id: 18
+    name: Bluray-480p
   - id: 20
     name: WEBRip-480p
   - id: 19
@@ -143,7 +143,7 @@ qualities:
 - id: 24
   name: SDTV
 upgrade_until:
-  id: 10
-  name: Bluray-1080p
-  description: 1080p Blu-ray video encoded with lossy compression
+  id: -2
+  name: WEB 1080p
+  description: 1080p WEB and Blueray
 language: original
